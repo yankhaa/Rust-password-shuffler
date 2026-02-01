@@ -1,5 +1,5 @@
 [package]
-name = "Password_generator"
+name = "Rust_password_shuffler"
 version = "0.1.0"
 edition = "2021"
 
